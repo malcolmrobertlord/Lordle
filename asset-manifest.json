@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lordle/static/css/main.41eddf88.css",
+    "main.js": "/Lordle/static/js/main.5bd32a72.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Lordle/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/Lordle/index.html",
+    "main.41eddf88.css.map": "/Lordle/static/css/main.41eddf88.css.map",
+    "main.5bd32a72.js.map": "/Lordle/static/js/main.5bd32a72.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Lordle/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41eddf88.css",
+    "static/js/main.5bd32a72.js"
+  ]
+}
