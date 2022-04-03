@@ -5,3 +5,7 @@ Inspired by Wordle, the internet game where you guess a 5 letter word  in 6 atte
 This is a React project that uses a node package to grab a random word each time you load the page. It then uses an API to validate your guesses to make sure they are real words.
 
 I also added in some stylings and animations to make it look very similar to the actual Wordle. 
+
+Here is the live site:
+
+https://malcolmrobertlord.github.io/Lordle/#/
